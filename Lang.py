@@ -16,5 +16,3 @@ result = v + k
 print(result*5)
 print(len(result*5))
 print(result[4])
-
-kkjhkhgkjhk
